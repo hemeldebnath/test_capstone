@@ -1,0 +1,3 @@
+Insert in this folder all....
+- Receipts of things you purchase
+- Bill of Materials as an Excel Sheet
